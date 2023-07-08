@@ -1,0 +1,130 @@
+body{
+	margin: 0;
+
+}
+nav{
+    border:none;
+    margin:-16px 0px 0px 5px;
+    height:50px;
+    display: flex;
+    align-items: center;
+    
+    
+
+}
+nav a{
+    padding: 0px 50px 0px 0px;
+}
+.button{
+    height: 50px;
+    width:80px;
+    border-radius:10px;
+    background-color:rgb(250, 99, 124);
+    border:none;
+    margin-left:1200px;
+    position:absolute;
+}   
+.button5{
+    height: 50px;
+    width:80px;
+    border-radius:10px;
+    background-color:white;
+    border:none;
+    margin-left:390px;
+    position: relative;
+    color:black
+    
+}
+.button1{
+    height: 50px;
+    width:80px;
+    border-radius:10px;
+    border: none;
+    color:black;
+    
+}
+.button2{
+    height: 50px;
+    width:80px;
+    border-radius:10px;
+    background-color:rgb(250, 99, 124);
+    border: none;
+    color: white;
+
+}
+nav button{
+    color:white;
+    float: right;
+    height: 50px;
+    width:80px;
+    border-radius:10px;
+    background-color: rgb(250, 99, 124);
+}
+section{
+    margin-left:40px;
+    border:none;
+    margin-left:20%;
+    margin-top:5%;
+    width:70%;
+    display:flex;
+
+
+}
+.one{
+    border:none;
+
+}
+.one div{
+    display:flex;
+    margin-top:30px;
+    border:none;
+    
+}
+.one  p {
+    padding:0px 2px 0px 0px;
+    margin-left: 40px;   
+    margin-top: -30px;
+}
+.two{
+    border:none;
+    margin-left:250px;
+    margin-top: 25px;
+    border:none;
+
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.second video{
+    width:700px;
+    border: none;
+    position:relative;
+    height: 100vh;
+    width: 68%;
+    margin-left: 20%;
+    margin-top:40px;
+    background-color: #F0F5F7;
+    border-radius: 10px
+
+}
+.th{
+    height: 100vh;
+    width: 65%;
+    margin-left: 20%;
+    margin-top:40px;
+    border-radius: 10px;
+}
+.third{
+    border:none;
+    height: 540px;
+    width:700px;
+    margin-left: 63px;
+    margin-top:50px;
+    border-radius:10px;
+}
+img{
+    height:30px;
+    margin-top:30px;
+
+}
